@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1719
     wikipedia: http://en.wikipedia.org/wiki/William_Butler_Yeats
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33321#Two-plays-for-dancers
 gutenberg_issued: '2010-08-02'
 gutenberg_type: Text
 identifiers:
